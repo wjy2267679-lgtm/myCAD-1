@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="560" viewBox="0 0 660 560"><rect width="660" height="560" fill="#ffffff"/><polygon points="415.78,213.90 407.73,234.22 425.04,224.23 452.19,192.88" fill="#a47868" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="407.73,234.22 415.78,213.90 361.47,182.54" fill="#b38270" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="361.47,182.54 415.78,213.90 452.19,192.88 397.88,161.52" fill="#da9b84" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="230.44,242.52 194.00,321.04 274.36,183.19 289.27,151.07" fill="#5f708e" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="429.56,357.48 466.00,278.96 385.64,165.98 370.73,198.10" fill="#7890bb" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="370.73,198.10 385.64,165.98 344.91,142.46 289.27,151.07 274.36,183.19 315.09,206.71" fill="#819ccc" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="194.00,321.04 293.56,378.52 315.09,206.71 274.36,183.19" fill="#8dace2" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="262.12,302.61 234.96,333.97 252.27,323.98 298.53,281.59" fill="#a47868" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="207.81,271.26 262.12,302.61 298.53,281.59 244.22,250.24" fill="#da9b84" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="293.56,378.52 429.56,357.48 370.73,198.10 315.09,206.71" fill="#99bcf9" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="234.96,333.97 262.12,302.61 207.81,271.26" fill="#da9b84" stroke="#1b2a4a" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="244.22,250.24 298.53,281.59 252.27,323.98" fill="none" stroke="#d81e2c" stroke-width="3.4" stroke-linejoin="round"/>
+<text x="40" y="44" font-size="21" font-weight="bold" fill="#111" font-family="DejaVu Sans, Noto Sans CJK SC, sans-serif">3D 立体 (红线为相贯线)</text></svg>
